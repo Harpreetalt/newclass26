@@ -82,6 +82,7 @@ function draw() {
   console.log("hello")
   //displaying score
   text("Score: "+ score, 500,50);
+  console.log("hello")
   
   console.log("this is ",gameState)
   
